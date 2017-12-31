@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 1.0
 Name:		texlive-venndiagram
-Version:	1.0
-Release:	11
+Version:	1.1
+Release:	1
 Summary:	Creating Venn diagrams with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/venndiagram
