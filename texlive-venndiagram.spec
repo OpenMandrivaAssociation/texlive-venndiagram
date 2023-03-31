@@ -1,6 +1,6 @@
 Name:		texlive-venndiagram
 Version:	47952
-Release:	1
+Release:	2
 Summary:	Creating Venn diagrams with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/venndiagram
