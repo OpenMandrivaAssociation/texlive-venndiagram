@@ -3,7 +3,7 @@ Version:	47952
 Release:	2
 Summary:	Creating Venn diagrams with TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/venndiagram
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/venndiagram
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/venndiagram.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/venndiagram.doc.r%{version}.tar.xz
